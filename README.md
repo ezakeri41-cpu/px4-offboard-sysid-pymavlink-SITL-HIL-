@@ -97,11 +97,11 @@ Roll-axis identification experiments (input, roll angle, roll rate).
 
 **Chirp excitation** (`roll_chirp_logger.py`)
 
-![Roll chirp identification experiment](images/roll_chirp_response.png)
+![Roll chirp identification experiment](images/roll_chirp_response.png.png)
 
 **PRBS excitation** (`roll_prbs_logger.py`)
 
-![Roll PRBS identification experiment](images/roll_prbs_response.png)
+![Roll PRBS identification experiment](images/roll_chirp_response.png.png)
 
 ---
 
